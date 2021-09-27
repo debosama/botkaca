@@ -1,4 +1,4 @@
-# BOTKACA
+# debosama
 
 Botkaca allows you to leech (re-upload) contents from internet including torrent to telegram. This bot using Telegram MTProto powered by pyrogram.
 
